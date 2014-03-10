@@ -1,4 +1,4 @@
-rails-blog
+blog_with_postgresql
 ==========
 
-Blog created by following the "Getting Started" Rails guide.
+This blog was originally configured with SQLite3. It has been re-configured to use postresql.
